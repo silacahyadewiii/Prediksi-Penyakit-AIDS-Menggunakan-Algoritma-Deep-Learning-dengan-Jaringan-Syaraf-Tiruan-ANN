@@ -1,5 +1,5 @@
 streamlit
 
-numpy
+numpy==1.23
 
-tensorflow
+tensorflow==2.12
