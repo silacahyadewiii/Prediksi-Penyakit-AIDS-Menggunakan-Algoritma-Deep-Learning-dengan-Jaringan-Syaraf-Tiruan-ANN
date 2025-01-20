@@ -28,7 +28,7 @@ drugs = st.number_input("Masukkan nilai untuk drugs", value=0.0, min_value=0.0, 
 karnof = st.number_input("Masukkan nilai untuk karnof", value=0.0, min_value=0.0, max_value=100.0, step=1.0)
 oprior = st.number_input("Masukkan nilai untuk oprior", value=0.0, min_value=0.0, max_value=1.0, step=1.0)
 z30 = st.number_input("Masukkan nilai untuk z30", value=0.0, min_value=0.0, max_value=1.0, step=1.0)
-preanti = st.number_input("Masukkan nilai untuk preanti", value=0.0, min_value=0.0, max_value=1.0, step=1.0)
+preanti = st.number_input("Masukkan nilai untuk preanti", value=0.0, min_value=0.0, step=1.0)
 race = st.number_input("Masukkan nilai untuk race", value=0.0, min_value=0.0, step=1.0)
 gender = st.number_input("Masukkan nilai untuk gender", value=0.0, min_value=0.0, max_value=1.0, step=1.0)
 str2 = st.number_input("Masukkan nilai untuk str2", value=0.0, min_value=0.0, max_value=1.0, step=1.0)
